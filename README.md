@@ -1,4 +1,4 @@
-# La-vestiola-diu-codi
+# La-Bestiola-diu-codi
 Codi del projecta programat amb arduino per Raúl Espinosa, David Arenas i Mario Romero
 
 
