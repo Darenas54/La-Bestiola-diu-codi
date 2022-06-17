@@ -1,5 +1,5 @@
 # La-Bestiola-diu-codi
-Codi del projecta programat amb arduino per Raúl Espinosa, David Arenas i Mario Romero
+Codi del projecte programat amb arduino per Raúl Espinosa, David Arenas i Mario Romero. :)
 
 
 <---CODI--->
